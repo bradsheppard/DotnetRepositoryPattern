@@ -6,9 +6,9 @@ namespace IntegrationTests {
     public class SampleModelRepositoryTests : RepositoryTestsBase<SampleModel, long> {
 
         public SampleModelRepositoryTests() {
-            string test = "Server=tcp:bradtestserver.database.windows.net,1433;Initial Catalog=bradtestdatabase;Persist Security Info=False;User ID=brad;Password=SQLPass7;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+            string connectionString = "";
             
-            BaseRepository = new SampleModelRepository(test);
+            BaseRepository = new SampleModelRepository(connectionString);
             FakeGenerator = new SampleModelFakeGenerator();
         }
     }
