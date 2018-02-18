@@ -18,7 +18,7 @@ to rewrite them for every repository.
 
 Prior to running integration tests, ensure you have an SQL database setup with the appropriate
 schema. You should first ensure that you have the appropriate connection string added to
-`ProjectDbContextFactory.cs`.
+`ProjectDbContextFactory.cs` and any integration tests (`SampleModelRepositoryTests.cs` for example).
 Once that has been set we can use Entity Framework migrations to get the database
 in the correct format. To add an initial migration
 run the following command from the `DotnetRepositoryPattern` project directory:
