@@ -1,0 +1,11 @@
+/home/brad/Dev/DotnetRepositoryPattern/IntegrationTests/bin/Debug/netstandard2.0/xunit.runner.visualstudio.testadapter.dll
+/home/brad/Dev/DotnetRepositoryPattern/IntegrationTests/bin/Debug/netstandard2.0/xunit.runner.utility.net35.dll
+/home/brad/Dev/DotnetRepositoryPattern/IntegrationTests/bin/Debug/netstandard2.0/xunit.abstractions.dll
+/home/brad/Dev/DotnetRepositoryPattern/IntegrationTests/bin/Debug/netstandard2.0/IntegrationTests.deps.json
+/home/brad/Dev/DotnetRepositoryPattern/IntegrationTests/bin/Debug/netstandard2.0/IntegrationTests.dll
+/home/brad/Dev/DotnetRepositoryPattern/IntegrationTests/bin/Debug/netstandard2.0/IntegrationTests.pdb
+/home/brad/Dev/DotnetRepositoryPattern/IntegrationTests/bin/Debug/netstandard2.0/DotnetRepositoryPattern.dll
+/home/brad/Dev/DotnetRepositoryPattern/IntegrationTests/bin/Debug/netstandard2.0/DotnetRepositoryPattern.pdb
+/home/brad/Dev/DotnetRepositoryPattern/IntegrationTests/obj/Debug/netstandard2.0/IntegrationTests.csproj.CoreCompileInputs.cache
+/home/brad/Dev/DotnetRepositoryPattern/IntegrationTests/obj/Debug/netstandard2.0/IntegrationTests.dll
+/home/brad/Dev/DotnetRepositoryPattern/IntegrationTests/obj/Debug/netstandard2.0/IntegrationTests.pdb

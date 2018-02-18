@@ -1,0 +1,16 @@
+/home/brad/Dev/DotnetRepositoryPattern/bin/Debug/netcoreapp2.0/DotnetRepositoryPattern.deps.json
+/home/brad/Dev/DotnetRepositoryPattern/bin/Debug/netcoreapp2.0/DotnetRepositoryPattern.dll
+/home/brad/Dev/DotnetRepositoryPattern/bin/Debug/netcoreapp2.0/DotnetRepositoryPattern.pdb
+/home/brad/Dev/DotnetRepositoryPattern/obj/Debug/netcoreapp2.0/DotnetRepositoryPattern.csproj.CoreCompileInputs.cache
+/home/brad/Dev/DotnetRepositoryPattern/obj/Debug/netcoreapp2.0/DotnetRepositoryPattern.dll
+/home/brad/Dev/DotnetRepositoryPattern/obj/Debug/netcoreapp2.0/DotnetRepositoryPattern.pdb
+/home/brad/Dev/DotnetRepositoryPattern/bin/Debug/netcoreapp2.0/DotnetRepositoryPattern.runtimeconfig.json
+/home/brad/Dev/DotnetRepositoryPattern/bin/Debug/netcoreapp2.0/DotnetRepositoryPattern.runtimeconfig.dev.json
+/home/brad/Dev/DotnetRepositoryPattern/DotnetRepositoryPattern/bin/Debug/netcoreapp2.0/DotnetRepositoryPattern.deps.json
+/home/brad/Dev/DotnetRepositoryPattern/DotnetRepositoryPattern/bin/Debug/netcoreapp2.0/DotnetRepositoryPattern.runtimeconfig.json
+/home/brad/Dev/DotnetRepositoryPattern/DotnetRepositoryPattern/bin/Debug/netcoreapp2.0/DotnetRepositoryPattern.runtimeconfig.dev.json
+/home/brad/Dev/DotnetRepositoryPattern/DotnetRepositoryPattern/bin/Debug/netcoreapp2.0/DotnetRepositoryPattern.dll
+/home/brad/Dev/DotnetRepositoryPattern/DotnetRepositoryPattern/bin/Debug/netcoreapp2.0/DotnetRepositoryPattern.pdb
+/home/brad/Dev/DotnetRepositoryPattern/DotnetRepositoryPattern/obj/Debug/netcoreapp2.0/DotnetRepositoryPattern.csproj.CoreCompileInputs.cache
+/home/brad/Dev/DotnetRepositoryPattern/DotnetRepositoryPattern/obj/Debug/netcoreapp2.0/DotnetRepositoryPattern.dll
+/home/brad/Dev/DotnetRepositoryPattern/DotnetRepositoryPattern/obj/Debug/netcoreapp2.0/DotnetRepositoryPattern.pdb
